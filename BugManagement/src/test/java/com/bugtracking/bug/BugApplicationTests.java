@@ -1,4 +1,4 @@
-package com.bugtracking;
+package com.bugtracking.bug;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

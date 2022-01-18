@@ -1,4 +1,4 @@
-package com.bugtracking.serviceTest;
+package com.bugtracking.bug.serviceTest;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.ArgumentMatchers.any;

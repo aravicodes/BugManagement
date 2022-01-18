@@ -1,4 +1,4 @@
-package com.bugtracking.controllerTest;
+package com.bugtracking.bug.controllerTest;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.times;
